@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1008653300954-rlaqopu3kpjpirm16fh2sp6n0t4kbb06.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1008653300954</string>
+    <string name="google_api_key" translatable="false">AIzaSyD5LPSXSG152V8inKMypek0x_sioXSuX-4</string>
+    <string name="google_app_id" translatable="false">1:1008653300954:android:ec4f97d3c6368e6a1861e3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD5LPSXSG152V8inKMypek0x_sioXSuX-4</string>
+    <string name="google_storage_bucket" translatable="false">my-morning-app-e5855.appspot.com</string>
+    <string name="project_id" translatable="false">my-morning-app-e5855</string>
+</resources>
